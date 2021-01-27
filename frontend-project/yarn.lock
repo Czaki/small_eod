@@ -14277,6 +14277,11 @@ path-to-regexp@2.4.0:
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-2.4.0.tgz#35ce7f333d5616f1c1e1bfe266c3aba2e5b2e704"
   integrity sha512-G6zHoVqC6GGTQkZwF4lkuEyMbVOjoBKAEybQUypI1WTkqinCOrq2x6U2+phkJ1XsEMTy4LjtwPI7HW+NVrRR2w==
 
+path-to-regexp@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-6.2.0.tgz#f7b3803336104c346889adece614669230645f38"
+  integrity sha512-f66KywYG6+43afgE/8j/GoiNyygk/bnoCbps++3ErRKsIYkGGupyv07R2Ok5m9i67Iqc+T2g1eAUGUPzWhYTyg==
+
 path-to-regexp@^1.7.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-1.8.0.tgz#887b3ba9d84393e87a0a0b9f4cb756198b53548a"
@@ -18001,13 +18006,6 @@ slice-ansi@^4.0.0:
 "small_eod_client@https://github.com/watchdogpolska/small-eod-sdk-javascript.git#1c1738a83823e3069cf70c29ef22286613dc8be7":
   version "1.0.4"
   resolved "https://github.com/watchdogpolska/small-eod-sdk-javascript.git#1c1738a83823e3069cf70c29ef22286613dc8be7"
-  dependencies:
-    "@babel/cli" "^7.0.0"
-    superagent "^5.3.0"
-
-"small_eod_client@https://github.com/watchdogpolska/small-eod-sdk-javascript.git#3fc27f41ef27b47f46deaff5f594a5d5fe0be5fe":
-  version "1.0.4"
-  resolved "https://github.com/watchdogpolska/small-eod-sdk-javascript.git#3fc27f41ef27b47f46deaff5f594a5d5fe0be5fe"
   dependencies:
     "@babel/cli" "^7.0.0"
     superagent "^5.3.0"
